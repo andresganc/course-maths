@@ -1,5 +1,5 @@
 
-#  NC COURSE - MATH PROGRAMMING
+#  COURSE MATHS
 
 
 ## Las matemáticas que debes saber para programar
